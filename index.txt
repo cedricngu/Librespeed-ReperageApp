@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpeedTest - Cédric NGU</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    img.logo {
+      margin-top: 20px;
+      max-width: 150px;
+      height: auto;
+    }
+    footer {
+      position: fixed;
+      bottom: 10px;
+      width: 100%;
+      color: #aaa;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Logo centré -->
+  <img src="logo_blanc.png" alt="Logo" class="logo">
+
+  <!-- Titre principal -->
+  <h1>LibreSpeed Custom</h1>
+
+  <!-- Placeholder : tu peux ici intégrer le vrai Speedtest.js -->
+  <p>Test de vitesse en cours... (interface customisée)</p>
+
+  <!-- Footer -->
+  <footer>
+    SpeedTest hébergé par Cédric NGU
+  </footer>
+
+</body>
+</html>
